@@ -1,0 +1,38 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+@EXPLICIT
+https://repo.continuum.io/pkgs/main/win-64/ca-certificates-2017.08.26-h94faf87_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/certifi-2017.7.27.1-py35hbab57cd_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/cycler-0.10.0-py35hcc71164_0.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/freetype-2.8-vc14h17c9bdf_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/icc_rt-2017.0.4-h97af966_0.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/icu-58.2-vc14hc45fdbb_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/intel-openmp-2018.0.0-hcd89f80_7.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/jpeg-9b-vc14h4d7706e_1.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/libpng-1.6.32-vc14h5163883_3.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/libtiff-4.0.8-vc14h04e2a1e_10.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/matplotlib-2.1.0-py35hea29350_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/mkl-2018.0.0-h36b65af_4.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/numpy-1.13.3-py35hb7e80fb_0.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/olefile-0.44-py35h7ba86d0_0.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/openssl-1.0.2l-vc14hf4c37d5_5.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/pandas-0.21.0-py35h0510043_1.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/pillow-4.2.1-py35hd7da350_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/pip-9.0.1-py35h691316f_4.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/pyparsing-2.2.0-py35hcabcaab_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/pyqt-5.6.0-py35hd46907b_5.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/python-3.5.4-h1357f44_23.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/python-dateutil-2.6.1-py35h6b299a3_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/pytz-2017.2-py35h3d6be01_1.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/qt-5.6.2-vc14h6f8c307_12.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/setuptools-36.5.0-py35h21a22e4_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/sip-4.18.1-py35h01cbaa7_2.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/six-1.11.0-py35hc1da2df_1.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/sqlite-3.20.1-vc14h7ce8c62_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/tornado-4.5.2-py35h03246f3_0.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/vc-14-h2379b0c_2.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/vs2015_runtime-14.0.25123-hd4c4e62_2.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/wheel-0.29.0-py35hdbcb6e6_1.tar.bz2
+https://repo.continuum.io/pkgs/main/win-64/wincertstore-0.2-py35hfebbdb8_0.tar.bz2
+https://conda.anaconda.org/anaconda/win-64/zlib-1.2.11-vc14h1cdd9ab_1.tar.bz2
